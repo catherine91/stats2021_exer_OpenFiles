@@ -73,6 +73,9 @@ plot(cars)
 ```
 
 Add a new code chunk below this line by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+```{r}
+#new code by Catherine
+```
 
 
 ## Save your output.
@@ -92,4 +95,8 @@ Save this assignment as a markdown file by following these steps:
     
 ## Submit your assignment.
 Submit the output you just saved for your assignment.
+```{r eval=FALSE}
+View(cars)
+
+```
 
